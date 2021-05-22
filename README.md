@@ -1,1 +1,1 @@
-# 1-Intro-to-Finance
+# Fintech Case Study
